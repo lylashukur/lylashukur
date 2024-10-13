@@ -2,8 +2,7 @@
 
 ꩜ Aspiring Software Engineer <br/>
 ꩜ Studying Computer Science at Portland State University <br/>
-꩜ In my digital garden, I’m sharing my journey as I #GrowInPublic! <br/>
-꩜ Currently working on learning FE while creating an algorithm visualizer <br/>
+꩜ Curently working on Premier League predictor using sklearn <br/>
 
 
 
