@@ -11,10 +11,9 @@
   </li>
 </ul>
 
+<p> I am currently pursuing a Bachelor's degree in Computer Science at Porltand State University, with a strong passion for AI/ML and it's real-world applications.
+As an aspiriing Software Egineer with an interest in Nueral Engineering, I am eager to explore how advanced computing can enhance human capabilites and change lives. My ultimate goal is to work at the intersection of Software Engineering, AI, and Nueral Interfaces, developing BCI's to empower amputees and indivudals with paralysis to regain mobility and independence.</p>
 
-
-
-## Hi there I'm Lyla!
 
 ꩜ Aspiring Software Engineer <br/>
 ꩜ Studying Computer Science at Portland State University <br/>
