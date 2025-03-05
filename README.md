@@ -35,8 +35,5 @@
         </div>
     </div>
 </div>
- <div style="display: flex; justify-content: flex-end; align-items: right; width: 40%;">
-        <img src="https://github.com/lylashukur/lylashukur/blob/main/Untitled%20design.gif"
-             alt="Study Gif" style="max-height: 200px; width: auto;">
-    </div>
+
 
