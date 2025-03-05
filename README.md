@@ -19,7 +19,7 @@
 <h3 align="center">-`✮´Languages and Tools `✮´-</h3>
 <div align="center">
 
-<div align="center">
+<div align="left">
   <!--<a href="https://skillicons.dev">-->
     <img src="https://skillicons.dev/icons?i=git,cpp,discord,github,gitlab,sklearn"/>
     <img src="https://skillicons.dev/icons?i=vim,postgres,py,linux"/>
