@@ -18,7 +18,6 @@
 <br/>
 <h3 align="left">-`✮´Languages and Tools `✮´-</h3>
 
-<div align="center">
 <div align="left">
   <!--<a href="https://skillicons.dev">-->
     <img src="https://skillicons.dev/icons?i=git,cpp,discord,github,gitlab,sklearn"/><br/>
@@ -27,7 +26,6 @@
     <div align="right">
         <img src="https://github.com/lylashukur/lylashukur/blob/main/Untitled%20design.gif" alt= "Study Gif">
     </div>
-</div>
 </div>
 
 
