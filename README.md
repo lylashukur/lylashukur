@@ -16,7 +16,7 @@
 
 <br/>
 <br/>
-<div style="display: flex; align-items: center;">
+<div style="display: flex;">
 <h3 align="left">-`✮´Languages and Tools `✮´-</h3>
 
 <div style="align-items: left;">
