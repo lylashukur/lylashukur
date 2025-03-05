@@ -11,6 +11,7 @@
 <h2>⋆｡‧˚ʚ About Me ɞ˚‧｡⋆</h2>
 
 <p>𓇼Currently Working on a Premier League Match predictor 2.0 utilizing AI <br/>
+𓇼I just joined Portland State Aerospace Society (PSAS)
 𓇼Fun Fact: I am currently trying to master roller skating... <br/></p>
 
 
