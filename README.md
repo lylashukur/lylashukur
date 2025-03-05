@@ -16,23 +16,27 @@
 
 <br/>
 <br/>
-<div style="display: flex; justify-content: space-between;">
-<div style="max-width: 50%;">
-    <h3 align="left">-`✮´Languages and Tools `✮´-</h3>
 
-<div style="display: flex; flex-wrap: wrap; gap:10px; align=left;">
-      <!--<a href="https://skillicons.dev">-->
-        <img src="https://skillicons.dev/icons?i=git,cpp,discord,github,gitlab,sklearn"/><br/>
-        <img src="https://skillicons.dev/icons?i=vim,postgres,py,linux"/>
-        <img src="https://skillicons.dev/icons?i=html, vscode,blender,postgres,latex,css"/>
-</div>
-</div>
- <div style="align: right;">
-        <img src="https://github.com/lylashukur/lylashukur/blob/main/Untitled%20design.gif"style="max-width: 200%; max-height: 200px;">
+<div style="display: flex; align-items: center; justify-content: space-between; width: 100%; padding: 20px;">
+
+<div style="max-width: 50%;">
+        <h3 style="text-align: left; font-size: 24px; font-weight: bold;">
+            - ✮ Languages and Tools ✮ -
+        </h3>
+        <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
+            <img src="https://skillicons.dev/icons?i=git,cpp,discord,github,gitlab,sklearn"/>
+            <img src="https://skillicons.dev/icons?i=vim,postgres,py,linux"/>
+            <img src="https://skillicons.dev/icons?i=html,vscode,blender,postgres,latex,css"/>
+        </div>
+    </div>
+
+
+ <div style="display: flex; justify-content: center; align-items: center;">
+        <img src="https://github.com/lylashukur/lylashukur/blob/main/Untitled%20design.gif"
+             alt="Study Gif" style="max-height: 200px; width: auto;">
     </div>
 
 </div>
-
 
 <!--
     
