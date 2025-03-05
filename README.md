@@ -21,7 +21,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,cpp,css, discord, github, gitlab" /><br/>
+    <img src="https://skillicons.dev/icons?i= git,cpp,css, discord, github, gitlab" /><br/>
     <img src="https://skillicons.dev/icons?i= discord, github, gitlab"/>
   </a>
 </p>
