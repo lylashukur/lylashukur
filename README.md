@@ -23,8 +23,8 @@
     <img src="https://skillicons.dev/icons?i=git,cpp,discord,github,gitlab,sklearn"/><br/>
     <img src="https://skillicons.dev/icons?i=vim,postgres,py,linux"/>
     <img src="https://skillicons.dev/icons?i=html, vscode,blender,postgres,latex,css"/>
-    <div align="center">
-        <img src="https://github.com/lylashukur/lylashukur/blob/main/Untitled%20design.gif" alt= "Study Gif" style="width:200%;">
+    <div align="right">
+        <img src="https://github.com/lylashukur/lylashukur/blob/main/Untitled%20design.gif" alt= "Study Gif" style="width:100px;">
     </div>
 </div>
 
