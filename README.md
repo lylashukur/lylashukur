@@ -4,6 +4,13 @@
 </p>
 
 <h1 align="center"> Hey there, I am Lyla </h1>
+<ul>
+  <li>
+    <img src="https://github.com/lylashukur/lylashukur/blob/main/Untitled%20design.svg" width="50">
+    Your text here
+  </li>
+</ul>
+
 
 
 
