@@ -25,7 +25,7 @@
     <img src="https://skillicons.dev/icons?i=vim,postgres,py,linux"/>
     <img src="https://skillicons.dev/icons?i=html, vscode,blender,postgres,latex,css"/>
 </div>
- <div style="margin-top: -100px; align-items: right;">
+ <div style="margin-top: -10px; align-items: right;">
         <img src="https://github.com/lylashukur/lylashukur/blob/main/Untitled%20design.gif"style="max-width: 100%; height: auto;">
     </div>
 
