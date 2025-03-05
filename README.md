@@ -10,9 +10,8 @@
 
 <h2>⋆｡‧˚ʚ About Me ɞ˚‧｡⋆</h2>
 
- Aspiring Software Engineer <br/>
-꩜ Studying Computer Science at Portland State University <br/>
-꩜ Curently working on Premier League predictor using sklearn <br/>
+<p>𓇼Currently Working on a Premier League Match predictor 2.0 utilizing AI <br/>
+𓇼Fun Fact: I am currently trying to master roller skating... <br/></p>
 
 
 
