@@ -16,7 +16,7 @@
 
 <br/>
 <br/>
-<div style="display: flex; justify-content: flex;">
+<div style="display: flex; justify-content: flex; gap: 40px;">
 <h3 align="left">-`✮´Languages and Tools `✮´-</h3>
 
 <div style="align-items: left;">
