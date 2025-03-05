@@ -16,7 +16,7 @@
 
 <br/>
 <br/>
-<div style="display: flex; align-items: center; justify-content: space-between;">
+<div style="display: flex; justify-content: space-between;">
 <div style="max-width: 50%;">
     <h3 align="left">-`✮´Languages and Tools `✮´-</h3>
 
