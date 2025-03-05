@@ -16,10 +16,10 @@
 
 <br/>
 <br/>
-<div style="display: flex; justify-content: flex; gap: 40px;">
+<div style="display: flex; gap: 40px;">
 <h3 align="left">-`✮´Languages and Tools `✮´-</h3>
 
-<div style="align-items: left;">
+<div style="align-items: left; display-flex: column;">
   <!--<a href="https://skillicons.dev">-->
     <img src="https://skillicons.dev/icons?i=git,cpp,discord,github,gitlab,sklearn"/><br/>
     <img src="https://skillicons.dev/icons?i=vim,postgres,py,linux"/>
