@@ -19,12 +19,12 @@
 <h3 align="center">-`✮´Languages and Tools `✮´-</h3>
 <div align="center">
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i= git,cpp,css, discord, github, gitlab" /><br/>
+<div align="center">
+  <!--<a href="https://skillicons.dev">-->
+    <img src="https://skillicons.dev/icons?i= git,cpp,css, discord, github, gitlab"/>
     <img src="https://skillicons.dev/icons?i= discord, github, gitlab"/>
   </a>
-</p>
+</div>
 
 <!--
     
