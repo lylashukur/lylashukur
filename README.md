@@ -23,10 +23,10 @@
     <img src="https://skillicons.dev/icons?i=git,cpp,discord,github,gitlab,sklearn"/><br/>
     <img src="https://skillicons.dev/icons?i=vim,postgres,py,linux"/>
     <img src="https://skillicons.dev/icons?i=html, vscode,blender,postgres,latex,css"/>
-    <div align="right" style="display: flex; justify-content: center; gap: 10px;">
+</div>
+ <div align="right" style="display: flex; justify-content: center; gap: 10px;">
         <img src="https://github.com/lylashukur/lylashukur/blob/main/Untitled%20design.gif">
     </div>
-</div>
 
 
 
