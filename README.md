@@ -4,9 +4,9 @@
 </p>
 
 <h1 align="center"> Hey there, I am Lyla </h1>
-<ul style="list-style: none;">
-  <li>
-    <img src="https://github.com/lylashukur/lylashukur/blob/main/Untitled%20design.svg" width="20"> TEXT
+<ul>
+  <li style="list-style: none;">
+    <img src="https://github.com/lylashukur/lylashukur/blob/main/Untitled%20design.svg" width="30"> TEXT
     
   </li>
 </ul>
