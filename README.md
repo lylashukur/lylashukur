@@ -1,4 +1,4 @@
-d<!-- MasterHead -->
+<!-- MasterHead -->
 <p align="center">
     <img src="https://github.com/lylashukur/lylashukur/blob/main/Full%20time%20coder...%20part-time%20hobby%20hoarder!.gif" alt="GitHub Banner" style="width:1100px; height:480px;"/>
 </p>
@@ -21,7 +21,8 @@ d<!-- MasterHead -->
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,cpp,css, discord, github, gitlab, html, linux, postgres, py, sklearn, vscode, c,vim" />
+    <img src="https://skillicons.dev/icons?i=git,cpp,css, discord, github, gitlab" />
+    <img src="https://skillicons.dev/icons?i= discord, github, gitlab"/>
   </a>
 </p>
 
