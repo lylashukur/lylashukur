@@ -1,3 +1,11 @@
+<!-- MasterHead -->
+<p align="center">
+    <img src="https://github.com/lylashukur/lylashukur/blob/main/Full%20time%20coder...%20part-time%20hobby%20hoarder!.gif" alt="GitHub Banner">
+</p>
+
+
+
+
 ## Hi there I'm Lyla!
 
 ꩜ Aspiring Software Engineer <br/>
