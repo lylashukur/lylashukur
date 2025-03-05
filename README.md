@@ -18,20 +18,24 @@
 <br/>
 <div style="display: flex; align-items: center; justify-content: space-between; width: 100%; padding: 20px;">
 
-    <!-- Left-side: Languages and Tools Section -->
 <div style="max-width: 50%;">
         <h3 style="text-align: left; font-size: 24px; font-weight: bold;">
             - ✮ Languages and Tools ✮ -
         </h3>
-        <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-            <img src="https://skillicons.dev/icons?i=git,cpp,discord,github,gitlab,sklearn"/>
-            <img src="https://skillicons.dev/icons?i=vim,postgres,py,linux"/>
-            <img src="https://skillicons.dev/icons?i=html,vscode,blender,postgres,latex,css"/>
+        <div style="display: flex; flex-direction: column; gap: 10px;">
+            <div style="display: flex; gap: 10px;">
+                <img src="https://skillicons.dev/icons?i=git,cpp,discord,github,gitlab,sklearn"/>
+            </div>
+            <div style="display: flex; gap: 10px;">
+                <img src="https://skillicons.dev/icons?i=vim,postgres,py,linux"/>
+            </div>
+            <div style="display: flex; gap: 10px;">
+                <img src="https://skillicons.dev/icons?i=html,vscode,blender,postgres,latex,css"/>
+            </div>
         </div>
     </div>
 
-    <!-- Right-side: GIF Section -->
-<div style="display: flex; justify-content: flex-end; align-items: center; width: 50%;">
+ <div style="display: flex; justify-content: flex-end; align-items: center; width: 40%;">
         <img src="https://github.com/lylashukur/lylashukur/blob/main/Untitled%20design.gif"
              alt="Study Gif" style="max-height: 200px; width: auto;">
     </div>
