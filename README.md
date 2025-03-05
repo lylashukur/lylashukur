@@ -22,8 +22,8 @@
 <div align="center">
   <!--<a href="https://skillicons.dev">-->
     <img src="https://skillicons.dev/icons?i=git,cpp,css,discord,github,gitlab"/><br/>
-    <img src="https://skillicons.dev/icons?i=vim,py,sklearn,linux,latex"/>
-    <img src="https://skillicons.dev/icons?i=html, vscode,blender,postgres"/>
+    <img src="https://skillicons.dev/icons?i=vim,postgres,py,sklearn,linux"/>
+    <img src="https://skillicons.dev/icons?i=html, vscode,blender,postgres,latex"/>
 </div>
 
 <!--
