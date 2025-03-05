@@ -22,11 +22,11 @@
 <div align="left">
   <!--<a href="https://skillicons.dev">-->
     <img src="https://skillicons.dev/icons?i=git,cpp,discord,github,gitlab,sklearn"/>
-    <img src="https://skillicons.dev/icons?i=vim,postgres,py,linux"/>
+    <img src="https://skillicons.dev/icons?i=vim,postgres,py,linux"/><br/>
     <img src="https://skillicons.dev/icons?i=html, vscode,blender,postgres,latex,css"/>
 </div>
 
-<div aligh="right">
+<div align="right">
     <img src="https://github.com/lylashukur/lylashukur/blob/main/Untitled%20design.gif" alt= "Study Gif">
 </div>
 
