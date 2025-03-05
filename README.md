@@ -24,7 +24,7 @@
     <img src="https://skillicons.dev/icons?i=vim,postgres,py,linux"/>
     <img src="https://skillicons.dev/icons?i=html, vscode,blender,postgres,latex,css"/>
     <div align="right">
-        <img src="https://github.com/lylashukur/lylashukur/blob/main/Untitled%20design.gif" alt= "Study Gif" style="width:1000px;">
+        <img src="https://github.com/lylashukur/lylashukur/blob/main/Untitled%20design.gif" alt= "Study Gif" style="width:800px;">
     </div>
 </div>
 
