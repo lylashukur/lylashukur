@@ -20,14 +20,14 @@
 <div style="max-width: 50%;">
     <h3 align="left">-`✮´Languages and Tools `✮´-</h3>
 
-<div style="display: flex; flex-wrap: wrap; gap:10px;">
+<div style="display: flex; flex-wrap: wrap; gap:10px; align=left;">
       <!--<a href="https://skillicons.dev">-->
         <img src="https://skillicons.dev/icons?i=git,cpp,discord,github,gitlab,sklearn"/><br/>
         <img src="https://skillicons.dev/icons?i=vim,postgres,py,linux"/>
         <img src="https://skillicons.dev/icons?i=html, vscode,blender,postgres,latex,css"/>
 </div>
 </div>
- <div style="margin-top: -10px; align-items: right;">
+ <div style="align: right;">
         <img src="https://github.com/lylashukur/lylashukur/blob/main/Untitled%20design.gif"style="max-width: 200%; max-height: 200px;">
     </div>
 
