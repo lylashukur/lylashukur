@@ -18,7 +18,7 @@
 <div style="display: flex; align-items: center; justify-content: space-between; width: 100%; padding: 20px;">
 
  <div style="max-width: 50%;">
-            <h3 style="text-align: left; font-size: 24px; font-weight: bold;">
+            <h3 style="text-align: left; font-size: 24px; font-weight: bold;">    <h3 style="text-align: center"> ✧Connect with me!✧</h3>
                 - ✮ Languages and Tools ✮ -
                 </h3>
             <div style="display: flex; flex-direction: column; gap: 10px;">
@@ -34,6 +34,6 @@
             </div>
      </div>
 </div>
-<h3 style="text-align: center"> ✧Connect with me!✧</h3>
+
 
 
