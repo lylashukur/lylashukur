@@ -10,44 +10,39 @@
 
 <h2>⋆｡‧˚ʚ About Me ɞ˚‧｡⋆</h2>
 
-<p>𓇼Currently Working on a Premier League Match predictor 2.0 utilizing AI <br/>
+<!--<p>𓇼Currently Working on a Premier League Match predictor 2.0 utilizing AI <br/>
     𓇼I just joined Portland State Aerospace Society (PSAS) <br/>
-    𓇼Fun Fact: I am currently trying to master roller skating... <br/></p>
+    𓇼Fun Fact: I am currently trying to master roller skating... <br/></p>-->
 
-<table width="100%" border="0">
-  <tr>
-    <td colspan="2" align="center">
-      <h3>- ✮ Connect with me ✮ -</h3>
-      <p>
-        <a href="https://www.linkedin.com/in/lyla-shukur-991895257/" target="_blank">
-          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-        </a>
-        <a href="mailto:lylashukur2@gmail.com" target="_blank">
-          <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-        </a>
-        <a href="https://leetcode.com/u/thaiteaslayer/" target="_blank">
-          <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
-        </a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="100%" valign="top">
-      <h3>- ✮ Languages and Tools ✮ -</h3>
-      <p>
-        <img src="https://skillicons.dev/icons?i=git,cpp,discord,github,gitlab,sklearn"/>
-        <br/>
-        <img src="https://skillicons.dev/icons?i=vim,postgres,py,linux"/>
-        <br/>
-        <img src="https://skillicons.dev/icons?i=html,vscode,blender,postgres,latex,css"/>
-      </p>
-    </td>
-    <td width="100%" align="right" valign="top">
-      <img width="150px" src="https://raw.githubusercontent.com/lylashukur/lylashukur/main/munchingStudying.gif" alt="Studying and munching GIF"/>
-    </td>
-  </tr>
-</table>
+<img align="right" alt="studying-gif" width="400" src="https://raw.githubusercontent.com/lylashukur/lylashukur/main/munchingStudying.gif">
 
+<p>
+  𓇼 Currently Working on a Premier League Match predictor 2.0 utilizing AI <br/>
+  𓇼 I just joined Portland State Aerospace Society (PSAS) <br/>
+  𓇼 Fun Fact: I am currently trying to master roller skating... <br/>
+</p>
+
+<h3>- ✮ Connect with me ✮ -</h3>
+<p>
+  <a href="https://www.linkedin.com/in/lyla-shukur-991895257/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:lylashukur2@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://leetcode.com/u/thaiteaslayer/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+  </a>
+</p>
+
+<h3>- ✮ Languages and Tools ✮ -</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=git,cpp,discord,github,gitlab,sklearn"/>
+  <br/>
+  <img src="https://skillicons.dev/icons?i=vim,postgres,py,linux"/>
+  <br/>
+  <img src="https://skillicons.dev/icons?i=html,vscode,blender,postgres,latex,css"/>
+</p>
 
 
 <!--
