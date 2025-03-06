@@ -14,22 +14,23 @@
     𓇼I just joined Portland State Aerospace Society (PSAS) <br/>
     𓇼Fun Fact: I am currently trying to master roller skating... <br/></p>
 
-<div align="right">
-<h3 align="right">- ✮ Connect with me ✮ -</h3>
-<p align="right">
-  <a href="https://www.linkedin.com/in/lyla-shukur-991895257/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:lylashukur2@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://leetcode.com/u/thaiteaslayer/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
-  </a>
-</p>
-</div>
-
-<table>
+<table width="100%" border="0">
+  <tr>
+    <td colspan="2" align="center">
+      <h3>- ✮ Connect with me ✮ -</h3>
+      <p>
+        <a href="https://www.linkedin.com/in/lyla-shukur-991895257/" target="_blank">
+          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+        </a>
+        <a href="mailto:lylashukur2@gmail.com" target="_blank">
+          <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+        </a>
+        <a href="https://leetcode.com/u/thaiteaslayer/" target="_blank">
+          <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+        </a>
+      </p>
+    </td>
+  </tr>
   <tr>
     <td width="70%" valign="top">
       <h3>- ✮ Languages and Tools ✮ -</h3>
