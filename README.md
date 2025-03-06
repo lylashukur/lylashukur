@@ -32,8 +32,8 @@
                     <img src="https://skillicons.dev/icons?i=html,vscode,blender,postgres,latex,css"/>
                 </div>
             </div>
-        </div>
-        <h3 style="text-align: right; display: flex"> ✧Connect with me!✧</h3>
+     </div>
 </div>
+<h3 style="text-align: right; display: flex"> ✧Connect with me!✧</h3>
 
 
