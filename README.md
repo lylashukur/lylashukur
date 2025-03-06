@@ -21,7 +21,6 @@
   🚀 I just joined Portland State Aerospace Society (PSAS) <br/>
   🧶 Fun Fact: Recently picked up crocheting and cannot stop! <br/>
 </p>
-<br/>
 
 <h3>- ✮ Connect with me ✮ -</h3>
 <p>
@@ -35,7 +34,6 @@
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
   </a>
 </p>
-<br/>
 
 <h3>- ✮ Languages and Tools ✮ -</h3>
 <p>
@@ -45,49 +43,6 @@
   <img src="https://skillicons.dev/icons?i=html,vscode,blender,postgres,latex,css"/>
 </p>
 
-
-<!--
-
- 
-<div style="display: flex; flex-direction: column; align-items: flex-end; padding-right: 20px;">
-    <h3>- ✮ Connect with me ✮ - </h3>
-    <a href="https://www.linkedin.com/in/lyla-shukur-991895257/" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="mailto:lylashukur2@gmail.com" target="_blank">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-    </a>
-  <a href="https://leetcode.com/u/thaiteaslayer/" target="_blank">
-        <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
-    </a>
-</div>
-
-<div style="display: flex; align-items: center; justify-content: space-between; width: 100%; padding: 20px;">
-
- <div style="max-width: 50%;">
-            <h3 style="text-align: left; font-size: 24px; font-weight: bold;">  
-                - ✮ Languages and Tools ✮ -
-                </h3>
-            <div style="display: flex; flex-direction: column; gap: 10px;">
-                <div style="display: flex; gap: 10px;">
-                    <img src="https://skillicons.dev/icons?i=git,cpp,discord,github,gitlab,sklearn"/>
-                </div>
-                <div style="display: flex; gap: 10px;">
-                    <img src="https://skillicons.dev/icons?i=vim,postgres,py,linux"/>
-                    </div>
-                <div style="display: flex; gap: 10px;">
-                    <img src="https://skillicons.dev/icons?i=html,vscode,blender,postgres,latex,css"/>
-                </div>
-            </div>
-     </div>
-</div>
-
-
-
- GIF Positioned in the Bottom Right Corner 
-<div style="position: fixed; bottom: 20px; right: -2000px; width: 150px;">
-    <img src="https://raw.githubusercontent.com/lylashukur/lylashukur/main/munchingStudying.gif" alt="Studying and munching GIF" style="width: 100%; border-radius: 10px;">
-</div>-->
 
 
 
