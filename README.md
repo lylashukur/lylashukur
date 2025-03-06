@@ -34,6 +34,6 @@
             </div>
      </div>
 </div>
-<h3 style="text-align: right; display: flex"> ✧Connect with me!✧</h3>
+<h3 style="text-align: center"> ✧Connect with me!✧</h3>
 
 
