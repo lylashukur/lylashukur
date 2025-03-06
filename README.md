@@ -14,30 +14,25 @@
     𓇼I just joined Portland State Aerospace Society (PSAS) <br/>
     𓇼Fun Fact: I am currently trying to master roller skating... <br/></p>
 
-<div align="right">
-    <img src= 
 
-
-<br/>
-<br/>
 <div style="display: flex; align-items: center; justify-content: space-between; width: 100%; padding: 20px;">
 
-<div style="max-width: 50%;">
-        <h3 style="text-align: left; font-size: 24px; font-weight: bold;">
-            - ✮ Languages and Tools ✮ -
-        </h3>
-        <div style="display: flex; flex-direction: column; gap: 10px;">
-            <div style="display: flex; gap: 10px;">
-                <img src="https://skillicons.dev/icons?i=git,cpp,discord,github,gitlab,sklearn"/>
-            </div>
-            <div style="display: flex; gap: 10px;">
-                <img src="https://skillicons.dev/icons?i=vim,postgres,py,linux"/>
-            </div>
-            <div style="display: flex; gap: 10px;">
-                <img src="https://skillicons.dev/icons?i=html,vscode,blender,postgres,latex,css"/>
+ <div style="max-width: 50%;">
+            <h3 style="text-align: left; font-size: 24px; font-weight: bold;">
+                - ✮ Languages and Tools ✮ -
+                </h3>
+            <div style="display: flex; flex-direction: column; gap: 10px;">
+                <div style="display: flex; gap: 10px;">
+                    <img src="https://skillicons.dev/icons?i=git,cpp,discord,github,gitlab,sklearn"/>
+                </div>
+                <div style="display: flex; gap: 10px;">
+                    <img src="https://skillicons.dev/icons?i=vim,postgres,py,linux"/>
+                    </div>
+                <div style="display: flex; gap: 10px;">
+                    <img src="https://skillicons.dev/icons?i=html,vscode,blender,postgres,latex,css"/>
+                </div>
             </div>
         </div>
-    </div>
 </div>
 
 
