@@ -32,7 +32,7 @@
     </td>
   </tr>
   <tr>
-    <td width="70%" valign="top">
+    <td width="100%" valign="top">
       <h3>- ✮ Languages and Tools ✮ -</h3>
       <p>
         <img src="https://skillicons.dev/icons?i=git,cpp,discord,github,gitlab,sklearn"/>
@@ -42,7 +42,7 @@
         <img src="https://skillicons.dev/icons?i=html,vscode,blender,postgres,latex,css"/>
       </p>
     </td>
-    <td width="30%" align="right" valign="top">
+    <td width="100%" align="right" valign="top">
       <img width="150px" src="https://raw.githubusercontent.com/lylashukur/lylashukur/main/munchingStudying.gif" alt="Studying and munching GIF"/>
     </td>
   </tr>
