@@ -17,7 +17,7 @@
 <img align="right" alt="studying-gif" width="500" top="100" src="https://raw.githubusercontent.com/lylashukur/lylashukur/main/munchingStudying.gif">
 
 <p>
-  🌱 Currently Working on a Premier League Match predictor 2.0 utilizing AI <br/>
+  🌱 Currently Working on a Premier League Match predictor *AI* <br/>
   🚀 I just joined Portland State Aerospace Society (PSAS) <br/>
   🧶 Fun Fact: Recently picked up crocheting and cannot stop! <br/>
 </p>
