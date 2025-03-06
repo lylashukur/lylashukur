@@ -14,7 +14,7 @@
     𓇼I just joined Portland State Aerospace Society (PSAS) <br/>
     𓇼Fun Fact: I am currently trying to master roller skating... <br/></p>-->
 
-<img align="right" alt="studying-gif" width="400" src="https://raw.githubusercontent.com/lylashukur/lylashukur/main/munchingStudying.gif">
+<img align="right" alt="studying-gif" width="600" top="100" src="https://raw.githubusercontent.com/lylashukur/lylashukur/main/munchingStudying.gif">
 
 <p>
   𓇼 Currently Working on a Premier League Match predictor 2.0 utilizing AI <br/>
