@@ -1,6 +1,6 @@
 <!-- MasterHead -->
 <p align="center">
-    <img src="https://github.com/lylashukur/lylashukur/blob/main/Full%20time%20coder...%20part-time%20hobby%20hoarder!.gif" alt="GitHub Banner" style="width:850px; height:-300px; justify-content: contain"/>
+    <img src="https://github.com/lylashukur/lylashukur/blob/main/Full%20time%20coder...%20part-time%20hobby%20hoarder!.gif" alt="GitHub Banner" style="width:850px; height:300px; justify-content: contain"/>
 </p>
 
 <h1 align="center"> Hey there, I am Lyla </h1>
