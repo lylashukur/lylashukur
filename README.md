@@ -13,7 +13,11 @@
 <p>𓇼Currently Working on a Premier League Match predictor 2.0 utilizing AI <br/>
     𓇼I just joined Portland State Aerospace Society (PSAS) <br/>
     𓇼Fun Fact: I am currently trying to master roller skating... <br/></p>
- <h3 style="text-align: right; position: absolute;"> ✧Connect with me!✧</h3>
+ 
+<div style="display: flex; justify-content: flex-end; padding-right: 20px;">
+    <h3>✧Connect with me!✧</h3>
+</div>
+
 
 
 <div style="display: flex; align-items: center; justify-content: space-between; width: 100%; padding: 20px;">
