@@ -16,7 +16,7 @@
  
 <div style="display: flex; flex-direction: column; align-items: flex-end; padding-right: 20px;">
     <h3>✧Connect with me!✧</h3>
-    <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HERE" target="_blank">
+    <a href="https://www.linkedin.com/in/lyla-shukur-991895257/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"
             style="border-radius: 12px; box-shadow: 0px 0px 10px pink;">
     </a>
