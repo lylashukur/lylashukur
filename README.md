@@ -47,7 +47,7 @@
      </div>
 </div>
 <!-- GIF Positioned in the Bottom Right Corner -->
-<div style="position: fixed; bottom: 20px; right: 200px; width: 150px;">
+<div style="position: fixed; bottom: 20px; right: -2000px; width: 150px;">
     <img src="https://raw.githubusercontent.com/lylashukur/lylashukur/main/munchingStudying.gif" alt="Studying and munching GIF" style="width: 100%; border-radius: 10px;">
 </div>
 
