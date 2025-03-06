@@ -13,7 +13,8 @@
 <p>𓇼Currently Working on a Premier League Match predictor 2.0 utilizing AI <br/>
     𓇼I just joined Portland State Aerospace Society (PSAS) <br/>
     𓇼Fun Fact: I am currently trying to master roller skating... <br/></p>
- 
+
+ <!--
 <div style="display: flex; flex-direction: column; align-items: flex-end; padding-right: 20px;">
     <h3>- ✮ Connect with me ✮ - </h3>
     <a href="https://www.linkedin.com/in/lyla-shukur-991895257/" target="_blank">
@@ -45,11 +46,41 @@
                 </div>
             </div>
      </div>
+</div>-->
+<!-- Languages & Tools and GIF in the Same Row -->
+<div style="display: flex; justify-content: space-between; align-items: center; width: 100%; padding: 20px;">
+    
+    <!-- Left Side: Languages & Tools -->
+ <div style="max-width: 50%;">
+        <h3 style="text-align: left; font-size: 24px; font-weight: bold;">  
+            - ✮ Languages and Tools ✮ -
+        </h3>
+        <div style="display: flex; flex-direction: column; gap: 10px;">
+            <div style="display: flex; gap: 10px;">
+                <img src="https://skillicons.dev/icons?i=git,cpp,discord,github,gitlab,sklearn"/>
+            </div>
+            <div style="display: flex; gap: 10px;">
+                <img src="https://skillicons.dev/icons?i=vim,postgres,py,linux"/>
+            </div>
+            <div style="display: flex; gap: 10px;">
+                <img src="https://skillicons.dev/icons?i=html,vscode,blender,postgres,latex,css"/>
+            </div>
+        </div>
+    </div>
+
+    <!-- Right Side: GIF -->
+<div style="max-width: 250px;">
+        <img src="https://raw.githubusercontent.com/lylashukur/lylashukur/main/munchingStudying.gif" 
+             alt="Studying and munching GIF" 
+             style="width: 100%; border-radius: 10px;">
+    </div>
+
 </div>
-<!-- GIF Positioned in the Bottom Right Corner -->
+
+<!-- GIF Positioned in the Bottom Right Corner 
 <div style="position: fixed; bottom: 20px; right: -2000px; width: 150px;">
     <img src="https://raw.githubusercontent.com/lylashukur/lylashukur/main/munchingStudying.gif" alt="Studying and munching GIF" style="width: 100%; border-radius: 10px;">
-</div>
+</div>-->
 
 
 
