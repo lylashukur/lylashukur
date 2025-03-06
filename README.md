@@ -2,6 +2,10 @@
 <p align="center">
     <img src="https://github.com/lylashukur/lylashukur/blob/main/Full%20time%20coder...%20part-time%20hobby%20hoarder!.gif" alt="GitHub Banner" style="width:950px; height:450px; justify-content: contain"/>
 </p>
+<!-- GIF Positioned in the Bottom Right Corner -->
+<div style="position: fixed; bottom: 20px; right: 20px; width: 150px;">
+    <img src="https://raw.githubusercontent.com/lylashukur/lylashukur/main/munchingStudying.gif" alt="Studying and munching GIF" style="width: 100%; border-radius: 10px;">
+</div>
 
 <h1 align="center"> Hey there, I am Lyla !</h1>
 
