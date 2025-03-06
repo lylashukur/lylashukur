@@ -15,7 +15,7 @@
     𓇼Fun Fact: I am currently trying to master roller skating... <br/></p>
  
 <div style="display: flex; flex-direction: column; align-items: flex-end; padding-right: 20px;">
-    <h3>✧Connect with me!✧</h3>
+    <h3>- ✮ Connect with me ✮ - </h3>
     <a href="https://www.linkedin.com/in/lyla-shukur-991895257/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
