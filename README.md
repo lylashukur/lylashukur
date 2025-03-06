@@ -33,6 +33,7 @@
                 </div>
             </div>
         </div>
+        <h3 style="text-align: right;"> ✧Connect with me!✧</h3>
 </div>
 
 
