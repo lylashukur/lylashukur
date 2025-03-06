@@ -14,45 +14,38 @@
     𓇼I just joined Portland State Aerospace Society (PSAS) <br/>
     𓇼Fun Fact: I am currently trying to master roller skating... <br/></p>
 
-<!-- Main content container with flex layout -->
-<div style="display: flex; justify-content: space-between; align-items: flex-start; width: 100%;">
-    <!-- Left column: Languages and Tools -->
-    <div style="width: 60%;">
-        <h3>- ✮ Languages and Tools ✮ -</h3>
-        <div style="display: flex; flex-direction: column; gap: 10px;">
-            <div style="display: flex; gap: 10px;">
-                <img src="https://skillicons.dev/icons?i=git,cpp,discord,github,gitlab,sklearn"/>
-            </div>
-            <div style="display: flex; gap: 10px;">
-                <img src="https://skillicons.dev/icons?i=vim,postgres,py,linux"/>
-            </div>
-            <div style="display: flex; gap: 10px;">
-                <img src="https://skillicons.dev/icons?i=html,vscode,blender,postgres,latex,css"/>
-            </div>
-        </div>
-    </div>
-    
-    <!-- Right column: Connect with me and GIF -->
- <div style="width: 35%; display: flex; flex-direction: column; align-items: flex-end;">
-        <h3>- ✮ Connect with me ✮ -</h3>
-        <div style="display: flex; gap: 10px; margin-bottom: 20px;">
-            <a href="https://www.linkedin.com/in/lyla-shukur-991895257/" target="_blank">
-                <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-            </a>
-            <a href="mailto:lylashukur2@gmail.com" target="_blank">
-                <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-            </a>
-            <a href="https://leetcode.com/u/thaiteaslayer/" target="_blank">
-                <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
-            </a>
-        </div>
-        
-    <!-- Studying GIF positioned below the connect links -->
-<div style="width: 150px; margin-top: 20px;">
-            <img src="https://raw.githubusercontent.com/lylashukur/lylashukur/main/munchingStudying.gif" alt="Studying and munching GIF" style="width: 100%; border-radius: 10px;">
-        </div>
-    </div>
+<div align="right">
+<h3 align="right">- ✮ Connect with me ✮ -</h3>
+<p align="right">
+  <a href="https://www.linkedin.com/in/lyla-shukur-991895257/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:lylashukur2@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://leetcode.com/u/thaiteaslayer/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+  </a>
+</p>
 </div>
+
+<table>
+  <tr>
+    <td width="70%" valign="top">
+      <h3>- ✮ Languages and Tools ✮ -</h3>
+      <p>
+        <img src="https://skillicons.dev/icons?i=git,cpp,discord,github,gitlab,sklearn"/>
+        <br/>
+        <img src="https://skillicons.dev/icons?i=vim,postgres,py,linux"/>
+        <br/>
+        <img src="https://skillicons.dev/icons?i=html,vscode,blender,postgres,latex,css"/>
+      </p>
+    </td>
+    <td width="30%" align="right" valign="top">
+      <img width="150px" src="https://raw.githubusercontent.com/lylashukur/lylashukur/main/munchingStudying.gif" alt="Studying and munching GIF"/>
+    </td>
+  </tr>
+</table>
 
 
 
