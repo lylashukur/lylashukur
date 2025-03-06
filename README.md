@@ -22,15 +22,12 @@
     <a href="mailto:your-email@gmail.com" target="_blank">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
     </a>
-
-<div style="display: flex; align-items: center; gap: 10px;">
-    <a href="https://leetcode.com/YOUR-LEETCODE-USERNAME" target="_blank">
+  <a href="https://leetcode.com/YOUR-LEETCODE-USERNAME" target="_blank">
         <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
     </a>
     <span style="background-color: #FFD1DC; color: #000; padding: 5px 10px; border-radius: 10px; font-size: 14px;">
         Currently practicing with NeetCode roadmap! 🚀
     </span>
-</div> 
 </div>
 
 <div style="display: flex; align-items: center; justify-content: space-between; width: 100%; padding: 20px;">
