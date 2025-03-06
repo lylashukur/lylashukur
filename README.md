@@ -14,7 +14,7 @@
     𓇼I just joined Portland State Aerospace Society (PSAS) <br/>
     𓇼Fun Fact: I am currently trying to master roller skating... <br/></p>
  
-<div style="display: flex; justify-content: flex-end; padding-right: 20px;">
+<div style="display: flex; justify-content: right; padding-right: 20px;">
     <h3>✧Connect with me!✧</h3>
 </div>
 
