@@ -47,6 +47,7 @@
             </div>
      </div>
 </div>-->
+
 <!-- Languages & Tools and GIF in the Same Row -->
 <div style="display: flex; justify-content: space-between; align-items: center; width: 100%; padding: 20px;">
     
