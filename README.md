@@ -17,10 +17,11 @@
 <img align="right" alt="studying-gif" width="500" top="100" src="https://raw.githubusercontent.com/lylashukur/lylashukur/main/munchingStudying.gif">
 
 <p>
-  𓇼 Currently Working on a Premier League Match predictor 2.0 utilizing AI <br/>
-  𓇼 I just joined Portland State Aerospace Society (PSAS) <br/>
-  𓇼 Fun Fact: I am currently trying to master roller skating... <br/>
+  🌱 Currently Working on a Premier League Match predictor 2.0 utilizing AI <br/>
+  🚀 I just joined Portland State Aerospace Society (PSAS) <br/>
+  🧶 Fun Fact: Recently picked up crocheting and cannot stop! <br/>
 </p>
+<br/>
 
 <h3>- ✮ Connect with me ✮ -</h3>
 <p>
@@ -34,6 +35,7 @@
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
   </a>
 </p>
+<br/>
 
 <h3>- ✮ Languages and Tools ✮ -</h3>
 <p>
