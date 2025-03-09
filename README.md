@@ -43,6 +43,8 @@
   <img src="https://skillicons.dev/icons?i=html,vscode,blender,postgres,latex,css"/>
 </p>
 
+<h3> Studying </h3>
+<img src="https://skillicons.dev/icons?i=aws"/>
 
 
 
