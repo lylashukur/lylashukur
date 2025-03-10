@@ -46,7 +46,6 @@
 
 <h3> Studying </h3>
 <img src="https://skillicons.dev/icons?i=aws"/>
-<p> Neural Networks , and am about to take an exciting computer vision class!</p>
 
 
 
