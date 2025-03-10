@@ -18,11 +18,12 @@
 
 <p>
   🌱 Currently Working on a Premier League Match predictor *AI* <br/>
-  🚀 I just joined Portland State Aerospace Society (PSAS) <br/>
-  🧶 Fun Fact: Recently picked up crocheting and cannot stop! <br/>
+  🚀 I just joined Portland State Aerospace Society (PSAS) <br/>   
+  🧶 Hobbies: snowboarding, crocheting, reading, pottery, roller skating, pickleball... really anything active and outside </br>
+  
 </p>
 
-<h3>- ✮ Connect with me ✮ -</h3>
+<h3>- ✮ Connect with me @ ✮ -</h3>
 <p>
   <a href="https://www.linkedin.com/in/lyla-shukur-991895257/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -45,6 +46,7 @@
 
 <h3> Studying </h3>
 <img src="https://skillicons.dev/icons?i=aws"/>
+<p> Neural Networks , and am about to take an exciting computer vision class!</p>
 
 
 
