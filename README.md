@@ -31,9 +31,9 @@
   <a href="mailto:lylashukur2@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://leetcode.com/u/thaiteaslayer/" target="_blank">
+ <!-- <a href="https://leetcode.com/u/thaiteaslayer/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
-  </a>
+  </a>-->
 </p>
 
 <h3>- ✮ Languages and Tools ✮ -</h3>
